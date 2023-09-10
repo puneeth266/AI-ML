@@ -5,3 +5,5 @@ git clone
 git add
 git commit
 git push origin HEAD
+hello 
+git status
